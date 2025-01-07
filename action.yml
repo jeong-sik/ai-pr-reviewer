@@ -1,9 +1,9 @@
-name: 'AI-based PR Reviewer & Summarizer with Chat Capabilities'
-description: 'AI-based PR Reviewer & Summarizer with Chat Capabilities'
+name: 'AI-based PR Reviewer & Summarizer with Chat Capabilities-forked'
+description: 'AI-based PR Reviewer & Summarizer with Chat Capabilities forked'
 branding:
   icon: 'git-merge'
   color: 'orange'
-author: 'CodeRabbit LLC'
+author: 'Jeong-sik'
 inputs:
   debug:
     required: false
