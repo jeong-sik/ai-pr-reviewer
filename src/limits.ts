@@ -14,8 +14,8 @@ export class TokenLimits {
         break
       case 'gpt-4o':
         this.maxTokens = 128000
-        this.responseTokens = 4000
-        this.knowledgeCutOff = '2023-10-01'
+        this.responseTokens = 16000
+        this.knowledgeCutOff = '2024-08-06'
         break
       case 'gpt-4-turbo':
         this.maxTokens = 128000
